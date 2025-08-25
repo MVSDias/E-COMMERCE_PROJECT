@@ -11,7 +11,7 @@ TechStore é um e-commerce **moderno e interativo** desenvolvido em React + Type
 
 ## 🔹 Demonstração
 
-![TechStore Demo](URL_DO_GIF_OU_SCREENSHOT)  
+![TechStore Demo]  
 
 ![Screenshot Home](./assets/home1.png)
 ![Screenshot Cart](./assets/cartpage.png)
@@ -57,3 +57,7 @@ npm install
 npm run dev
 
 ```
+
+## Deploy na Vercel
+
+Acessa: https://e-commerce-project-six-nu.vercel.app
