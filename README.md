@@ -5,7 +5,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-blue?logo=tailwind-css)
 
 TechStore é um e-commerce **moderno e interativo** desenvolvido em React + TypeScript, com funcionalidades de **carrinho de compras, filtros dinâmicos e checkout**.  
-É uma evolução de um projeto anterior em JavaScript puro, mostrando escalabilidade e boas práticas em React.
+É uma evolução de um projeto anterior em JavaScript puro, realizado por Rodolfo Mori, no bootcamp "Missão Programador do Zero". A atualização com estilização tailwind . O projeto tem previsão de escalabilidade para login com email e senha ou login com google. E banco de dados para armazenar e gerenciar os produtos, através de uma api backend. E possibilidade de implementação de stripe para realizar pagamentos online.
 
 ---
 
@@ -13,9 +13,9 @@ TechStore é um e-commerce **moderno e interativo** desenvolvido em React + Type
 
 ![TechStore Demo](URL_DO_GIF_OU_SCREENSHOT)  
 
-![Screenshot Home](./assets/home1.png)
-![Screenshot Cart](./assets/cartpage.png)
-![Screenshot SuccessPage](./assets/successPage.png)
+![Screenshot Home](./src/assets/home1.png)
+![Screenshot Cart](./src/assets/cartpage.png)
+![Screenshot SuccessPage](./src/assets/successPage.png)
 
 ---
 
