@@ -13,7 +13,9 @@ TechStore é um e-commerce **moderno e interativo** desenvolvido em React + Type
 
 ![TechStore Demo](URL_DO_GIF_OU_SCREENSHOT)  
 
-> Obs: Substitua o link acima por um GIF ou imagem mostrando a aplicação em funcionamento.
+![Screenshot Home](./assets/home1.png)
+![Screenshot Cart](./assets/cartpage.png)
+![Screenshot SuccessPage](./assets/successPage.png)
 
 ---
 
