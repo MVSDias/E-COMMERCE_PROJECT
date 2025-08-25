@@ -6,17 +6,14 @@ import Modal from "./Modal";
 
 const ProductCard = () => {
   const { openModal, addProductToCart, produtosOnDisplay } = useCardProduct();
-  
 
   const handleOpenModal = (id: number) => {
     openModal(id);
   };
 
-  const handleAddToCart = (id:number) => {
-    
-    addProductToCart(id)
-
-  }
+  const handleAddToCart = (id: number) => {
+    addProductToCart(id);
+  };
 
   return (
     <div className="w-full">
@@ -53,7 +50,6 @@ const ProductCard = () => {
                     onClick={() => handleAddToCart(produto.id)}
                   >
                     <ShoppingCartIcon size={28} />
-                    
                   </button>
                 </div>
               </div>

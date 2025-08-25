@@ -45,3 +45,6 @@ const CompleteOrderPage = () => {
 };
 
 export default CompleteOrderPage;
+ 
+
+// glow na borda e no background no botão - className="transition duration-300 ease-in-out hover:scale-125 hover:bg-[#39ff14]  hover:text-black  hover:shadow-[0_0_25px_10px_#39ff14]""
